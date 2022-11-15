@@ -24,6 +24,6 @@ Project for the course Statistical Methods in AI
 
 - ## Result:
     We got a test result of 
-    mean_squared_error =.
-    mean_absolute_error =.
+    mean_squared_error =
+    mean_absolute_error =
     r2_score =
