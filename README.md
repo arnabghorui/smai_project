@@ -10,6 +10,7 @@ Project for the course Statistical Methods in AI
     The data is provided in a csv file. News articles are given pairwise, with there original links and internet archive links. Here for each pair of news articles similarity scores of coutry, entity, time etc  are provided. [Source](https://competitions.codalab.org/my/datasets/download/8379dc75-c824-4ea7-bf00-9d29cb644af5).
 
 - ## Data Extraction:
+    First we crawled the data using a bot suggested by the paper.
     First we accumulated all the data in a single json file, which is a list of dict.
     Each dict is a news article pair with a pair of text, score, etc. as given in dataPrepare.py
 
