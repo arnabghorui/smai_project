@@ -20,6 +20,7 @@ Project for the course Statistical Methods in AI
 - ## Model:
     We implemented multi layer perceptron this task.
     To be precise we used a siamese architecture with dence layers, as given in the model figure.
+    ![flowchart diagram drawio](https://user-images.githubusercontent.com/61308067/201865396-e5cfcd4f-07fa-47dd-9233-5e40674f6317.svg)
 
 - ## Result:
     We got a test result of 
