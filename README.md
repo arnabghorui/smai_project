@@ -7,7 +7,7 @@ Project for the course Statistical Methods in AI
 
 
 - ## Data:
-    The data for this project was obtained from 
+    The data is provided in an csv file. Here 
 
 - ## Data Extraction:
     First we accumulated all the data in a single json file, which is a list of dict.
