@@ -13,8 +13,5 @@ We made feature vectors from the data.
 We used tf-idf vectorization for this purpose as given in SMAI_Projrct.ipynb . 
 
 Model:
-
-
-In this project we train 3 mdoels in three different ways to check the similarity between two news articles.
-Then we compare the accuracy of the three models.
+We used a 
 - 
