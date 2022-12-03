@@ -12,7 +12,7 @@
         Each dict is a news article pair with a pair of text, score, etc. as given in dataPrepare.py
 
 - ## System Description
-    ![flowchart diagram drawio](https://user-images.githubusercontent.com/61308067/201865396-e5cfcd4f-07fa-47dd-9233-5e40674f6317.svg)
+    ![flowchart diagram drawio](https://github.com/arnabghorui/smai_project/blob/main/architecture.drawio.svg)
     We used a Siamese based architecture to detect the similarity between two news articles as given in the image.
     We implemented 3 major models on this architecture:
     - Multilayer Perceptron using tf-idf
