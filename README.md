@@ -1,11 +1,11 @@
-# Statistical Methods in AI
-## Team No. 54
-Project for the course Statistical Methods in AI
+# Multilingual News Article Similarity
+### Team No. 54
+### Project for the course Statistical Methods in AI
 
 - ## Task:
-    Given two news articles, our task is to find out whether they are covering the same story or not, and to come up with a similarity score for the same. For our task we have taken the news article pairs of the same language i.e English. But in principle this can be done in cross language also. The rating scale for similarity is used as 4 for most similar and 1 for least similar articles. 
+    Here we have Attempted SemEval 2022 Task 8: Multilingual News Article Similarity. Given two news articles, our task is to find out whether they are covering the same story or not, and to come up with a similarity score for the same. The rating scale for similarity is used as 4 for most similar and 1 for least similar articles. 
 
-
+    The data is provided in a csv file. News articles are given pairwise, with there original links and internet archive links. Here for each pair of news articles similarity scores of coutry, entity, time etc  are provided. [Source](https://competitions.codalab.org/my/datasets/download/8379dc75-c824-4ea7-bf00-9d29cb644af5).
 
 - ## Data:
     The data is provided in a csv file. News articles are given pairwise, with there original links and internet archive links. Here for each pair of news articles similarity scores of coutry, entity, time etc  are provided. [Source](https://competitions.codalab.org/my/datasets/download/8379dc75-c824-4ea7-bf00-9d29cb644af5).
